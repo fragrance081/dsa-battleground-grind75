@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Optional: ignore temp or debug files
+*.log
