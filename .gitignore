@@ -3,6 +3,7 @@
 *.exe
 *.o
 *.obj
+/tmp/*
 
 # Ignore any file with no extension (common for compiled binaries)
 # But keep .cpp, .h, etc.
