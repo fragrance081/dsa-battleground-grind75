@@ -4,5 +4,12 @@
 *.o
 *.obj
 
+# Ignore any file with no extension (common for compiled binaries)
+# But keep .cpp, .h, etc.
+# This will match files like "main", "hello", "program1"
+!*.cpp
+!*.h
+*~
+
 # Optional: ignore temp or debug files
 *.log
